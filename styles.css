@@ -165,11 +165,11 @@ body{
     }
 
     .container__imagem{
-        width: 50vw;
+        width: 50vw
     }
 
     .container__caixa{
-        margin: 2em  2em ;
+        margin: 2em 2em ;
     }
 
     .secundario {
@@ -177,9 +177,9 @@ body{
         text-align: center;
     }
 
-    .secudario__imagem{
-        width: 40vw;
-        align-items: center;
+    .secundario__imagem{
+        width: 50vw;
+       
     }
 
     .dispositivos__lista{
@@ -188,8 +188,9 @@ body{
 
     .rodape__lista{
         display: block;
-    }
+        
+    }    
     
 }
-
+     
 
